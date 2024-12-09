@@ -1,3 +1,19 @@
+# Task Frontend
+
+Prueba tecnica de listado de tareas con las opciones de agregarlas, eliminarlas y cambiarles su estado.
+
+<img width="1006" alt="image" src="https://github.com/user-attachments/assets/ea4011b2-6b72-4e74-8da8-4d15748adb93">
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/6e17b748-f1d8-4a10-b670-e4ecb4a5a97f">
+
+# Intrucciones para correr:
+
+1. Clonar repo
+2. Seguir instrucciones de React para instalar dependencias y correr proyecto
+3. Correr [Backend]([https://www.ejemplo.com](https://github.com/Urbanvisual/tasks)) con sus respectivas instrucciones
+4. Cambiar urlBase en archivo api.js
+5. Correr app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
