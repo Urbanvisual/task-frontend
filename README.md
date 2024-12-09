@@ -9,7 +9,7 @@ Prueba tecnica de listado de tareas con las opciones de agregarlas, eliminarlas 
 
 1. Clonar repo
 2. Seguir instrucciones de React para instalar dependencias y correr proyecto
-3. Correr [Backend]([https://www.ejemplo.com](https://github.com/Urbanvisual/tasks)) con sus respectivas instrucciones
+3. Correr [Backend](https://github.com/Urbanvisual/tasks) con sus respectivas instrucciones
 4. Cambiar urlBase en archivo api.js
 5. Correr app
 
